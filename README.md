@@ -1,3 +1,4 @@
+# Steps
 ## LCD driver installations and set up
 
 ###### Type the various lines of codes in the Terminal to install the LCD driver
@@ -16,3 +17,5 @@ sudo ./LCD35-show (for the 3.5-inch LCD-TFT screen) <br/>
 
 cd LCD-show
 sudo ./LCD-hdmi
+
+
